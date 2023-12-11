@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/Nikhil Dubey/Desktop/DSA-CPP/DAY3",
+      "program": "c:/Users/Nikhil Dubey/Desktop/DSA-CPP/DAY3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
